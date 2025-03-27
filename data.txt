@@ -1,4 +1,3 @@
-Name: esra
-Age: 25
-Favorite Color: blue
-
+Name: Esra
+Age: 20
+Favorite color: groen
